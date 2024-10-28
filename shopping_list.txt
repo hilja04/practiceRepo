@@ -1,0 +1,42 @@
+shoppinglist:
+skirts
+shirts
+toothpaste
+hairbrush
+cat food
+shampoo
+conditioner
+moisturizer
+serum
+hairoil
+rings
+earrings
+orange
+apple
+banana
+bread
+tree
+cat
+dog
+catfish
+fish
+monkey
+money
+more money
+phone
+airplane
+ship
+knowledge
+smart
+brain
+heart
+eyes
+halloween
+wings
+winx club
+pulla
+lamppu
+ohjain
+controller
+paper
+mynthon
